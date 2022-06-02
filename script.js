@@ -1,3 +1,3 @@
 console.log("nothing");
-a = 10
+a = 100
 a = 100
